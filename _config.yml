@@ -1,14 +1,14 @@
 # Setup
 title:        T Introduction
 tagline:      T 는 차세대 데이터 공유 서비스입니다.
-baseurl:      ""
+baseurl:      "www.naver.com"
 paginate:     1
 theme: jekyll-theme-cayman
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Henry C.
+  url:        https://www.facebook.com
 
 # Gems
 gems:
