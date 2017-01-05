@@ -1,6 +1,6 @@
 # Setup
-title:        ProjectM
-tagline:      A responsive theme for your project on GitHub Pages
+title:        T 소개 페이지
+tagline:      M 에서 진행되는 극비 프로젝트 중 하나인 T 를 공개합니다.
 baseurl:      ""
 paginate:     1
 theme: jekyll-theme-cayman
