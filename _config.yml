@@ -1,6 +1,6 @@
 # Setup
-title:        T 소개 페이지
-tagline:      M 에서 진행되는 극비 프로젝트 중 하나인 T 를 공개합니다.
+title:        T Introduction
+tagline:      T 는 차세대 데이터 공유 서비스입니다.
 baseurl:      ""
 paginate:     1
 theme: jekyll-theme-cayman
