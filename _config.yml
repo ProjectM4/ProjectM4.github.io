@@ -1,7 +1,7 @@
 # Setup
 title:        T Introduction
 tagline:      T 는 차세대 데이터 공유 서비스입니다.
-baseurl:      "www.naver.com"
+baseurl:      ""
 paginate:     1
 theme: jekyll-theme-cayman
 
