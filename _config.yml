@@ -3,12 +3,12 @@ title:        T Introduction
 tagline:      T 는 차세대 데이터 공유 서비스입니다.
 baseurl:      ""
 paginate:     1
-theme: jekyll-theme-cayman
+theme:        jekyll-theme-cayman
 
 # About/contact
 author:
   name:       Henry C.
-  url:        https://www.facebook.com
+  url:        http://yourhomepage.com 
 
 # Gems
 gems:
