@@ -2,7 +2,7 @@
 layout: default
 title:  "최신 업데이트 (v1.0)"
 date:   2017-01-05 17:50:00
-categories: main
+categories: notice
 ---
 
 안녕하세요, T 의 전반적인 개발 & 보안을 맡고 있는 Henry 입니다.
