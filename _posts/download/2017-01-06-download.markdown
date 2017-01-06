@@ -5,6 +5,6 @@ date:   2017-01-06 17:50:00
 categories: download
 ---
 
-안드로이드 앱 다운로드 : [링크][man1]
+안드로이드 앱 다운로드 : [링크][link1]
 
 [link1]: https://play.google.com/store

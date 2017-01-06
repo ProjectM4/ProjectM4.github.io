@@ -7,7 +7,7 @@ title: {{ site.name }}
   <h1>다운로드</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}/download">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; {% post_url /download/2017-01-06-download %}</li>
     {% endfor %}
   </ul>
     <ul>
