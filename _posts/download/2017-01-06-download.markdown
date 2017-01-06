@@ -1,15 +1,10 @@
 ---
 layout: default
-title:  "Android"
+title:  "Android 앱"
 date:   2017-01-06 17:50:00
 categories: download
 ---
 
-안녕하세요, T 의 전반적인 개발 & 보안을 맡고 있는 Henry 입니다.
+안드로이드 앱 다운로드 : [링크][man1]
 
-오늘 저희 팀이 한 일은 예전부터 쭉 해온 웹사이트 개발인데요, 한 50% 정도 진행되고 있네요! :)
-후.. 많이 힘들어요ㅠㅠ 지금 제가 모든 개발을 다 맡고 있는 건 아니지만 전체적인 흐름도에서 시작해서 백엔드 구현까지..
-
-언젠가 돈 받을 수 있는 날이 오겠죠? 하하하 [이 분][man1]이 우리의 물주니까요.
-
-[man1]: https://kr.linkedin.com/in/jhdanielee/en
+[link1]: https://play.google.com/store
