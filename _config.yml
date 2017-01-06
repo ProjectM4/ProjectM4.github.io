@@ -1,7 +1,6 @@
 # Setup
 title:        T Introduction
-tagline:      Advanced Technology in Data Sharing Ecosystem.
-T 는 차세대 데이터 공유 서비스입니다.
+tagline:      Advanced Data Sharing Ecosystem. T 는 차세대 데이터 공유 서비스입니다.
 baseurl:      ""
 paginate:     1
 theme:        jekyll-theme-cayman
