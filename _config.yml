@@ -1,6 +1,7 @@
 # Setup
 title:        T Introduction
 tagline:      T 는 차세대 데이터 공유 서비스입니다.
+tagline:      The Advanced Technology in Data Sharing Ecosystem
 baseurl:      ""
 paginate:     1
 theme:        jekyll-theme-cayman
@@ -8,7 +9,7 @@ theme:        jekyll-theme-cayman
 # About/contact
 author:
   name:       Henry Choi
-  url:        https://www.facebook.com
+  url:        https://www.facebook.com/HanDongChoi
 
 # Gems
 gems:
